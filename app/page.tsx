@@ -58,8 +58,6 @@ export default async function Home() {
             <Link className="hover:text-green-800" href="/kontak">Kontak</Link>
           </nav>
           <MobileNav />
-
-          <button className="rounded-lg border px-3 py-2 md:hidden">☰</button>
         </div>
       </header>
 
