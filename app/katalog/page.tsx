@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
+import { MobileNav } from "@/components/mobile-nav";
 
 export const instant = false;
 
